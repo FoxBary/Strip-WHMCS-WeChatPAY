@@ -1,4 +1,4 @@
-WHMCS-Stripe-微信支付网关插件介绍
+VMSHELL-WHMCS-Stripe-微信支付网关插件介绍
 概述：
 随着全球支付方式的多样化，越来越多的用户倾向于使用本地化的支付渠道完成交易。对于中国及东南亚地区的客户来说，微信支付无疑是最为常见且便捷的支付方式之一。为了满足这些市场的需求，我们开发了 WHMCS-Stripe-微信支付网关插件。此插件通过 Stripe 提供的微信支付通道，将 WHMCS 与微信支付完美结合，让商家无需复杂的开发与申请，即可快速接入微信支付，提升中国及亚太市场客户的支付体验。
 
@@ -64,9 +64,13 @@ WHMCS-Stripe-微信支付网关插件是一款为全球用户打造的支付解�
 Vmshell INC 作为全球领先的网络服务提供商，不仅提供高效、稳定的云计算与网络基础设施，还为全球用户提供灵活的支付解决方案。无论是企业用户还是个人开发者，您都可以通过我们的官网，轻松获取所需的服务与支持。
 
 官网订购地址：https://vmshell.com/
+
 企业高速网络：https://tototel.com/
+
 TeleGram讨论群：https://t.me/vmshellhk
+
 TeleGram频道：https://t.me/vmshell
+
 
 
 
@@ -135,6 +139,9 @@ WHMCS-Stripe-WeChat Payment Gateway Plug-In Is A Payment Solution Built For Glob
 As A Leading Global Network Service Provider, Vmshell INC Not Only Provides Efficient And Stable Cloud Computing And Network Infrastructure, But Also Provides Flexible Payment Solutions For Global Users. Whether You Are An Enterprise User Or An Individual Developer, You Can Easily Get The Services And Support You Need Through Our Official Website.
 
 Official Website Ordering Address: Https://Vmshell.Com/
+
 Enterprise High-Speed Network: Https://Tototel.Com/
+
 TeleGram Discussion Group: Https://T.Me/Vmshellhk
+
 TeleGram Channel: Https://T.Me/Vmshell
